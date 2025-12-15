@@ -5,8 +5,10 @@ Ingeniería Biomédica
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México.  
 Prof. Fortunato Ramírez Arzate  
 Unidad 2: Sistemas de telesalud
-Ramirez Rodriguez Carlos Azael  
-22212267  
+
+Antúnez Rubio Maria Fernanda   
+
+22211745  
 
 
 -----
